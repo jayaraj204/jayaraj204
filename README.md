@@ -14,7 +14,7 @@
 🔗 Check out my <a href="https://jayaraj204.github.io/" target="_blank">Portfolio</a>
  <p align="left">
 👋 My name is JAYARAJ R, BCA student<br>
-💻 Skilled in Power BI, Python, C++, MySQL<br>
+💻 Skilled in HTML, CSS, JavaScript, Power BI, Python, C++, MySQL<br>
 ✍️ Passionate about writing, data analysis, visualization, and optimizing processes
 </p>
 
